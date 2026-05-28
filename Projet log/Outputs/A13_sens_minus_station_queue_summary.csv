@@ -1,0 +1,6 @@
+﻿scenario,highway,sens,station_id,station_name,pk,chargers,data_status,assigned_cars,total_waiting_time_min,average_waiting_time_min,max_waiting_time_min
+A13_sens_minus,A13,-1,0,Ghiffa,153.0,1,Unknown,7,80.66147859922178,11.523068371317397,14.94163424124514
+A13_sens_minus,A13,-1,1,Isola,147.0,1,Unknown,7,79.96108949416345,11.423012784880493,14.980544747081723
+A13_sens_minus,A13,-1,2,Viamala,100.0,16,Internal estimate / to verify,117,1210.7782101167313,10.348531710399413,14.980544747081723
+A13_sens_minus,A13,-1,3,Apfelwuhr,65.0,1,Unknown,8,99.06614785992224,12.38326848249028,14.980544747081723
+A13_sens_minus,A13,-1,4,Heidiland,58.0,6,Internal estimate / to verify,48,581.089494163424,12.106031128404666,14.980544747081723

@@ -1,0 +1,65 @@
+﻿Highway,sens,Rest stop name,Nb EV charging points,Data status
+A2,1,Basel-Nord/Weil,,Hors Suisse
+A2,1,Pratteln-Süd,0,Confirmed no charger
+A2,1,Sonnenberg-West,5,Confirmed
+A2,1,Mühlematt-West,5,Confirmed
+A2,1,Teufengraben,11,Confirmed
+A2,1,Gunzgen-Süd,6,Confirmed
+A2,1,Knutwil-Süd,7,Confirmed
+A2,1,Inseli,,Unknown
+A2,1,Neuenkirch-West,3,Confirmed
+A2,1,Gotthard-West,10,Confirmed
+A2,1,Amsteg,,Unknown
+A2,1,Wiler,,Unknown
+A2,1,Wassen,,Unknown
+A2,1,San Gottardo-Sud Ambri-Piotta,6,Confirmed
+A2,1,Lavorgo,,Uncertain
+A2,1,Bodio/Personico,,Present count unknown
+A2,1,Moleno-Sud,,Unknown
+A2,1,Bellinzona-Nord,10,Confirmed
+A2,1,Sasso/Cadenazzo-Nord,,Unknown
+A2,1,Agno/Muzzano-Sud,,Unknown
+A2,1,Riva San Vitale-Nord,,Unknown
+A2,1,Coldrerio-Ovest,7,Confirmed
+A2,-1,Coldrerio-Est,5,Confirmed
+A2,-1,Riva San Vitale-Sud,,Unknown
+A2,-1,Agno/Muzzano-Nord,,Unknown
+A2,-1,Sasso/Robasacco-Sud,,Unknown
+A2,-1,Bellinzona-Sud,4,Confirmed
+A2,-1,Moleno-Nord,,Unknown
+A2,-1,Giornico/Personico,,Unknown
+A2,-1,Lavorgo,,Uncertain
+A2,-1,San Gottardo-Sud Stalvedro,5,Confirmed
+A2,-1,Wiler,,Unknown
+A2,-1,Erstfeld,,Unknown
+A2,-1,Gotthard-Ost,10,Confirmed
+A2,-1,Neuenkirch-Ost,4,Confirmed
+A2,-1,Kirchbühl,,Unknown
+A2,-1,Knutwil-Nord,,Unknown
+A2,-1,Gunzgen-Nord,,Unknown
+A2,-1,Eggberg,,Unknown
+A2,-1,Mühlematt-Ost,,Unknown
+A2,-1,Sonnenberg-Ost,,Unknown
+A2,-1,Pratteln-Nord,0,Confirmed no charger
+A2,-1,Basel-Nord/Weil,,Hors Suisse
+A8,1,Iseltwald-Nord,6,Internal estimate / to verify
+A8,-1,Därlingen,,Unknown
+A8,-1,Iseltwald-Süd,6,Internal estimate / to verify
+A13,1,Campagnola-Sud,,Unknown
+A13,1,Ghiffa,,Unknown
+A13,1,Isola,,Unknown
+A13,1,Rofla,,Unknown
+A13,1,Viamala,16,Internal estimate / to verify
+A13,1,Apfelwuhr,,Unknown
+A13,1,Heidiland,6,Internal estimate / to verify
+A13,1,Rheintal-Ost,4,Internal estimate / to verify
+A13,1,Kriessern-Süd,,Unknown
+A13,-1,Kriessern-Nord,,Unknown
+A13,-1,Rheintal-West,4,Internal estimate / to verify
+A13,-1,Heidiland,6,Internal estimate / to verify
+A13,-1,Apfelwuhr,,Unknown
+A13,-1,Viamala,16,Internal estimate / to verify
+A13,-1,San Bernardino-Nord,,Unknown
+A13,-1,Isola,,Unknown
+A13,-1,Ghiffa,,Unknown
+A13,-1,Campagnola-Nord,,Unknown

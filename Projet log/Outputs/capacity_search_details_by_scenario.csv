@@ -1,0 +1,7 @@
+﻿n_cars,scenario,status,assigned_cars,infeasible_cars,average_waiting_time_min,max_waiting_time_min,max_actual_queue_observed,queue_condition_ok
+10,A2_sens_plus,OPTIMAL,9,1,21.66666666666667,67.0,5.0,False
+10,A2_sens_minus,OPTIMAL,6,4,0.0,0.0,0.0,True
+10,A8_sens_plus,NO_STATION,0,10,,,,False
+10,A8_sens_minus,NO_STATION,0,10,,,,False
+10,A13_sens_plus,OPTIMAL,10,0,0.0,0.0,0.0,True
+10,A13_sens_minus,OPTIMAL,8,2,0.0,0.0,0.0,True

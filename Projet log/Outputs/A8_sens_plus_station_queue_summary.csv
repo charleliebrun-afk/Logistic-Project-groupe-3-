@@ -1,0 +1,2 @@
+﻿scenario,highway,sens,station_id,station_name,pk,chargers,data_status,assigned_cars,total_waiting_time_min,average_waiting_time_min,max_waiting_time_min
+A8_sens_plus,A8,1,0,Iseltwald-Nord,31.0,6,Internal estimate / to verify,26,0.0,0.0,0.0

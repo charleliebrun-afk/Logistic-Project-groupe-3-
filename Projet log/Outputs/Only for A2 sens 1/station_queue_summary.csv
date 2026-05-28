@@ -1,0 +1,4 @@
+﻿station_id,station_name,pk,chargers,assigned_cars,total_waiting_time_min,average_waiting_time_min,max_waiting_time_min,providers
+0,Teufengraben,40.0,1,0,0.0,0.0,0.0,
+1,Neuenkirch-West,86.0,1,61,15130.0,248.0327868852459,502.0,
+2,Bellinzona-Nord,233.0,4,38,91.0,2.3947368421052633,9.0,Move

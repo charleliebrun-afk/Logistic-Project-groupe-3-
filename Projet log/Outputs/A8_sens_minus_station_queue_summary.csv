@@ -1,0 +1,3 @@
+﻿scenario,highway,sens,station_id,station_name,pk,chargers,data_status,assigned_cars,total_waiting_time_min,average_waiting_time_min,max_waiting_time_min
+A8_sens_minus,A8,-1,0,Iseltwald-Süd,31.0,6,Internal estimate / to verify,18,0.0,0.0,0.0
+A8_sens_minus,A8,-1,1,Därlingen,15.0,1,Unknown,8,87.99999999999997,10.999999999999996,14.399999999999991

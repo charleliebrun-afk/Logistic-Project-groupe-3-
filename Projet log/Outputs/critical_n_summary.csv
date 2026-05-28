@@ -1,0 +1,7 @@
+﻿highway,sens,status,max_working_n,first_failing_n,threshold_waiting_time_min,demand_window_min,last_ok_assigned_cars,first_bad_assigned_cars,first_bad_rejected_cars,first_bad_pct_rejected
+A2,1,BREAK_FOUND,511,512,15.0,60.0,511,511,1,0.1953125
+A2,-1,BREAK_FOUND,272,273,15.0,60.0,272,272,1,0.3663003663003663
+A8,1,BREAK_FOUND,46,47,15.0,60.0,46,46,1,2.127659574468085
+A8,-1,BREAK_FOUND,54,55,15.0,60.0,53,53,1,1.8518518518518516
+A13,1,BREAK_FOUND,178,179,15.0,60.0,173,175,2,1.1299435028248588
+A13,-1,BREAK_FOUND,81,82,15.0,60.0,81,81,1,1.2195121951219512
